@@ -2,7 +2,7 @@
 #
 # Makefile for list implementation and test file.
 #
-# <Izaac Ballard>
+# <Izaac Ballard >
 
 
 
